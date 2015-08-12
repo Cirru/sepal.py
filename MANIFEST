@@ -2,3 +2,4 @@
 setup.cfg
 setup.py
 cirru_sepal/__init__.py
+cirru_sepal/sepal.py
